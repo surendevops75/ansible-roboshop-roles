@@ -1,2 +1,3 @@
 MONGODB_HOST: mongodb.surendevops.fun
 REDIS_HOST: redis.surendevops.fun
+CATALOGUE_HOST: catalogue.surendevops.fun
