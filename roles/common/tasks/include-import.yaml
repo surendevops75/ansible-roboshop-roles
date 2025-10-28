@@ -3,5 +3,5 @@
     msg: "hi"
 
 - name: testing include vs import
-ansible.builtin.debug:
+  ansible.builtin.debug:
     msg: "hello"
