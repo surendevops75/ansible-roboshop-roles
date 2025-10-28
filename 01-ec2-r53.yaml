@@ -3,7 +3,7 @@
   connection: local
   vars:
     ami_id: "ami-09c813fb71547fc4f"
-    sg_id: "sg-023e95f9ad8b4897e"
+    sg_id: "sg-04f2c9f5066a1bf36"
     zone_id: "Z10042263JCJ5ZTK2AT9J"
     domain_name: "surendevops.fun"
     # we can pass instances through command line using -e
